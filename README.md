@@ -4,7 +4,7 @@ Huhu, help me!!! Love you &lt;3
 --------------------------------
 
 >Instruction:
-> - Download the `link_list.txt` file to the `./` directory. Get link
+> - Download the `link_list.txt` file to the `Crawler_batdongsan.com.vn/` directory. Get link
 > from me :)))
 > 
 > - Download chrome-driver matching the version of chrome browser you have.
