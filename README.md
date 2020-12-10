@@ -27,7 +27,7 @@ You can follow one of two instructions below :p
 
 
 
-### Instruction 2: Run with G
+### Instruction 2: Run with GC
  
  - Download sth from the link I sent you 
 
