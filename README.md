@@ -6,7 +6,7 @@ Huhu, help me!!! Love you <3
 You can follow one of two instructions below :p
 
 
-### Instruction 1:
+### Instruction 1: Run on your local
 
  - Download the `link_list.txt` file to the `Crawler_batdongsan.com.vn/` directory. Get link
  from me :)))
@@ -27,7 +27,7 @@ You can follow one of two instructions below :p
 
 
 
-### Instruction 2:
+### Instruction 2: Run with G
  
  - Download sth from the link I sent you 
 
