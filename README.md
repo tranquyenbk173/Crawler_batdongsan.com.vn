@@ -4,7 +4,7 @@
 Selenium version
 
 
-Huhu, help me!!! Love you <3
+Thank you for your help!!! Love you <3
 
 
 ------------------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ You can follow one of two instructions below :p
 ### Instruction 1: Run on your local
 
  - Download the `link_list.txt` file to the `Crawler_batdongsan.com.vn/` directory. Get link
- from me :))) >>>>>> https://drive.google.com/file/d/13N7YxBivKqPScSiOG3x5TtCyS5cS0WPA/view?usp=sharing
+ from me :))) >>>>>> 
  
  - Download chrome-driver matching the version of chrome browser you have.
  Attached file corresponding to Version 87.0.4280.88 (Official Build) (64-bit) - `./chromedriver`.
@@ -49,3 +49,6 @@ You can follow one of two instructions below :p
 
 
 ## Again! Love you <3 
+
+
+and the scrapy version is.... https://github.com/hustducnv/batdongsan.com.vn_spider   fasster!
