@@ -27,7 +27,7 @@ You can follow one of two instructions below :p
 
 
 
-### Instruction 2: Run with GC
+### Instruction 2: Run with GColab
  
  - Download sth from the link I sent you 
 
