@@ -31,7 +31,7 @@ You can follow one of two instructions below :p
  
  - Download sth from the link I sent you 
 
- - Use `Selenium_Real_Estate.ipynb` and run on your Google Colab. 
+ - Use `Selenium_Real_Estate.ipynb` to run on your Google Colab. 
 
  - Then your directory in your GDriver will consists of files below:
   (`links_list.txt`, `chromedriver`, `Selenium_Real_Estate.ipynb`)
